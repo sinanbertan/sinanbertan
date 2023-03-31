@@ -1,13 +1,5 @@
- Hi there 👋
-
-<!--
-**sinanbertan/sinanbertan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-💫 About Me:
-- 🌱 I’m currently learning Python Frameworks, MySQL, PowerBI,Tableau
-- 💬 Ask me about Python, SQL, Excel, PowerBI
-- 📫 How to reach me: sinanbavli04@gmail.com
+# 💫 About Me:
+🌱 I’m currently learning Python Frameworks, MySQL, PowerBI,Tableau<br><br>- 💬 Ask me about Python, SQL, Excel, PowerBI<br><br>- 📫 How to reach me: sinanbavli04@gmail.com<br>
 
 
 ## 🌐 Socials:
