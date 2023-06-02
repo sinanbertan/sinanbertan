@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python Frameworks, MySQL, PowerBI,Tableau<br><br>- 💬 Ask me about Python, SQL, Excel, PowerBI<br><br>- 📫 How to reach me: sinanbavli04@gmail.com<br>
+🌱 I’m currently learning ML,AI,PowerBI,Tableau<br><br>- 💬 Ask me about Python, SQL, Excel, PowerBI<br><br>- 📫 How to reach me: sinanbavli04@gmail.com<br>
 
 
 ## 🌐 Socials:
