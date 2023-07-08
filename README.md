@@ -37,10 +37,6 @@
 
 
 ## 🏆 GitHub Trophies
-<div align="left">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanbertan" alt="sinanbertan" /></a>
 </p>
