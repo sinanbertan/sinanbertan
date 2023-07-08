@@ -33,11 +33,17 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan"></img>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sinanbertan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanbertan" alt="sinanbertan" /></a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
