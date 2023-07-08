@@ -3,6 +3,8 @@
 <h3 align="center">Data Scientist / Data Analyst from Turkey</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+# I'AM:
+
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis,Data Science**
 
 - 📝 I regularly write articles on [https://medium.com/@sinanbavli04](https://medium.com/@sinanbavli04)
