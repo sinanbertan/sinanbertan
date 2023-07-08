@@ -35,10 +35,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/sinanbertan/sinanbertan/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sinanbertan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
