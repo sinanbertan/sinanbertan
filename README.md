@@ -31,9 +31,9 @@
 # 📊 GitHub Stats:
 
 
-| .                                                                                                                                       | .                                                                                                                         |
+|                                                                                                                                       |                                                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&locale=en" alt="sinanbertan" /></p>| <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan"></img> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&locale=en" alt="sinanbertan" /></p>| <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan" align="center" ></img> |
 
 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sinanbertan&theme=radical&layout=compact)
