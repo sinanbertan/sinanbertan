@@ -36,6 +36,7 @@
 | ![sinanbertan's github stats](https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sinanbertan&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan"></img>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&locale=en" alt="sinanbertan" /></p>
 
 
 
