@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sinanbavli04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/104mhM3PmGFU6jVqPFVFU7z5js8_fUpao/view?usp=sharing](https://drive.google.com/file/d/104mhM3PmGFU6jVqPFVFU7z5js8_fUpao/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/104mhM3PmGFU6jVqPFVFU7z5js8_fUpao/view?usp=sharing](https://www.datascienceportfol.io/sinanbavli)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
