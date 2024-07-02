@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis,Data Science**
 
-- 📝 I regularly write articles on [https://medium.com/@sinanbavli04](https://medium.com/@sinanbavli04)
-
 - 💬 Ask me about **Python,Excel,SQL,PowerBI,Tableu**
 
 - 📫 How to reach me **sinanbavli04@gmail.com**
@@ -18,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/sinan bavli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sinan bavli" height="30" width="40" /></a>
 <a href="https://kaggle.com/sinanbavli04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sinanbavli04" height="30" width="40" /></a>
-<a href="https://medium.com/@sinanbavli04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sinanbavli04" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:   
