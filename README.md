@@ -30,6 +30,17 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanbertan" alt="sinanbertan" /></a>
 </p>
 
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/sinanbertan/sinanbertan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="sinanbertan" />
+</p>
+
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan&theme=onedark" alt="sinanbertan" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&locale=en&theme=onedark" alt="sinanbertan" />
+    </span>
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
