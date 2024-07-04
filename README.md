@@ -4,7 +4,7 @@
 
 # I'M:
 
-- 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Analysis,Data Science**
+- 🌱 I’m currently learning **Machine Learning,Deep Learning,Data Science,MLOps**
 
 - 💬 Ask me about **Python,Excel,SQL,PowerBI,Tableu**
 
@@ -28,9 +28,10 @@
 </p>
 
 <p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan&theme=onedark" alt="sinanbertan" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&locale=en&theme=onedark" alt="sinanbertan" />
+    <span style="width: 99%;">
+        <img align="center" style="width: 37%;" src="https://github-readme-streak-stats.herokuapp.com/?user=sinanbertan&theme=onedark" alt="sinanbertan" />
+        <img align="center" style="width: 35%;" src="https://github-readme-stats.vercel.app/api?username=sinanbertan&show_icons=true&locale=en&theme=onedark" alt="sinanbertan" />
+        <img align="center" style="width: 27%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinanbertan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="sinanbertan" />
     </span>
 </p>
 
